@@ -1,11 +1,28 @@
 Machine Learning
 
-Machine learning is an application of artificial intelligence (AI) which provides systems the ability to learn automatically and study from experience without programming explicitly. It focuses on the development of computer programs that can access data and use it to learn for themselves.
+Machine learning is an application of artificial intelligence (AI) which provides systems the ability to learn automatically and study from experience without programming explicitly. 
+It focuses on the development of computer programs that can access data and use it to learn for themselves.
 There are many models in machine learning and there are classified into three categories.
 
 1.Supervised Learning
 2.Unsupervised Learning
 3.Reinforcement learning
 
+Supervised Learning:-
+Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. 
+It infers a function from labeled training data consisting of a set of training examples.
+It uses classification algorithms and regression techniques to develop predictive models. 
+The algorithms include linear regression, logistic regression, and neural networks as well, apart from decision tree, Support Vector Machine (SVM), random forest, naive Bayes, and k-nearest neighbor.
 
+Unsupervised Learning:-
+Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. 
+The most common unsupervised learning method is cluster analysis, which is used for exploratory data analysis to find hidden patterns or grouping in data.
+Unsupervised machine learning helps you to finds all kind of unknown patterns in data. Clustering and Association are two types of Unsupervised learning. 
+Four types of clustering methods are 1) Exclusive 2) Agglomerative 3) Overlapping 4) Probabilistic.
 
+Reinforcement learning:-
+Reinforcement learning is the training of machine learning models to make a sequence of decisions. 
+The agent learns to achieve a goal in an uncertain, potentially complex environment. 
+In reinforcement learning, an artificial intelligence faces a game-like situation. Its goal is to maximize the total reward.
+Two types of reinforcement learning are 1) Positive 2) Negative. Two widely used learning model are:-
+ 1) Markov Decision Process 2) Q learning. Reinforcement Learning method works on interacting with the environment, whereas the supervised learning method works on given sample data or example.
